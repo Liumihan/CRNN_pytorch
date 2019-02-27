@@ -6,6 +6,8 @@
 
 在300w+的中文数据集上训练之后,得到了0.95的精度.(整个label都预测正确才认为正确)
 
+我还做了一个基于keras的项目：https://github.com/Liumihan/CRNN_kreas， 个人认为keras对于新手来说更好上手，但是灵活性不够。所以自己又迁移到了pytorch上来。
+
 #### File Description
 
 | File                 | Description          |
